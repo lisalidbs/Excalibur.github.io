@@ -1,3 +1,0 @@
-    window.onload=function redirct2qidian(){    
-        window.location.href="http://www.qidian.com/";
-    }
